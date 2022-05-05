@@ -7,7 +7,7 @@ int main(){
 		printf("\nDigite o %d numero inteiro: ",i);
 		scanf("%d", &vetor[i]);	
 		soma=soma+vetor[i];	
-	}
+	} 
 
 	int media=0, igual=0;
 	media=soma/10;
